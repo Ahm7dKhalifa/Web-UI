@@ -1,1 +1,2 @@
 https://github.com/ColorlibHQ/AdminLTE
+https://github.com/mratwan/adminlte-rtl-v3
